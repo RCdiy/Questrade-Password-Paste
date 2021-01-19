@@ -1,0 +1,28 @@
+# Edit using a plane text editor such as Text Edit"
+# replace the text between quotes
+
+set myLoginID to "abcd"               
+set myPassword to "nix-k"
+
+set appToLaunch to "Questrade IQ Edge"
+#set appToLaunch to "Questrade IQ Edge copy"
+
+set appLaunchDelay to 4 
+
+#########################################
+tell application appToLaunch to activate
+delay appLaunchDelay
+tell application "System Events"
+	keystroke tab
+	keystroke tab
+	keystroke tab
+	keystroke tab
+	keystroke "a" using command down
+	keystroke myLoginID
+	keystroke tab
+	keystroke myPassword
+	keystroke tab
+	keystroke tab
+	keystroke tab
+	keystroke return
+end tell
