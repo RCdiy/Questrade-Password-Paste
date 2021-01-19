@@ -4,7 +4,7 @@
 
 ## Step 1. Edit EditMe.txt
 * This is where the credentials are entered.
-* **Remove the credentials** after following the steps below.
+* **Remove the credentials** after the next step.
 
 ## Step 2. Execute RunMe.sh
 * When executed an application, Questrade Credentials.app, is created.
