@@ -2,11 +2,11 @@
 * Launches the Questrade Edge IQ app and enters the login ID and password for the account.
 * This is a workaround to not being able to paste a password into the Questrade Edge IQ app login window.
 
-## EditMe.txt
+## Step 1. Edit EditMe.txt
 * This is where the credentials are entered.
-* **Remove the credentials** after executing the file using the command line in the MacOS Terminal app.
+* **Remove the credentials** after following the steps below.
 
-## RunMe.sh
+## Step 2. Execute RunMe.sh
 * When executed an application, Questrade Credentials.app, is created.
 * This application is placed in the user's Application folder.
 
