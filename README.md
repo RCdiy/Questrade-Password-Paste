@@ -1,4 +1,4 @@
-# Questrade Password Paste on MacOS, OSX, Mac.
+# Questrade Password Paste (MacOS, OSX, Mac.)
 * Launches the Questrade Edge IQ app and enters the login ID and password for the account.
 * This is a workaround to not being able to paste a password into the Questrade Edge IQ app login window.
 
