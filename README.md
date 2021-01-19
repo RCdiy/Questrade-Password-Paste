@@ -13,14 +13,14 @@
 ## Questrade Credentials.app
 * **This file contains the username and password.**
 * It is located in the the user's Application folder.
-* For this app to work the original Questrade app must be installed.
+* For this app to work the original Questrade IQ Edge app must be installed.
 
 ## More than one account
 * More than one account can be used.
 * Create a copy of the Questrade IQ Edge app with a different name.
-** E.g. Questrade IQ Edge copy
+  * E.g. Questrade IQ Edge copy
 * Edit EditMe.txt and change:
-** "Questrade IQ Edge" to "Questrade IQ Edge copy"
+  * "Questrade IQ Edge" to "Questrade IQ Edge copy"
 * Follow the steps above.
 
 This code started with code from https://github.com/EugeneDae/Force-Paste
